@@ -1,0 +1,14 @@
+{
+    "name": "list",
+    "version": "0.0.1",
+    "src": [
+        "list.h"
+    ],
+    "repo": "chingyat/list",
+    "description": "port linux kernel list.h to userspace",
+    "keywords": [
+        "list",
+        "structure"
+    ],
+    "license": "GPL-2.0"
+}
